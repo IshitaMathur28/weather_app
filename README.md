@@ -1,16 +1,9 @@
-# flutter_application_1
+This project is a Flutter application that serves as a Weather app, developed using the Dart programming language and various resources from pub.dev. The app's core functionality mirrors that of weather app, enabling users to:
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Framework: Built using Flutter and Dart for a smooth cross-platform experience.
+Location Access: Requests user permission to access location for accurate weather data.
+Real-Time Updates: Fetches and updates current weather conditions using the Weather.org API.
+User Interface: Features a clean, intuitive UI displaying local weather details.
+API Integration: Seamlessly integrates with Weather.org for reliable weather data.
+Customization: Allows users to select different locations or use GPS for automatic location-based updates.
